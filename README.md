@@ -1,6 +1,6 @@
 # 手写线程池
 
-![ThreadPool线程池](E:\CPP\ThreadPool\Figure\ThreadPool.svg)
+![ThreadPool线程池](E:\CPP\ThreadPool\Figure\ThreadPool.png)
 
 ## 项目介绍
 
@@ -140,7 +140,7 @@ main over!
 
 **项目名称：基于可变参模板实现的线程池**
 
-github地址：
+github地址：https://github.com/Belief-hub/ThreadPool
 
 平台工具：vs2022开发，ubuntu22.04编译so库，gdb调试分析定位死锁问题
 
