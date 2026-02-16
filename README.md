@@ -1,6 +1,6 @@
 # 手写线程池
 
-![ThreadPool线程池]([E:\CPP\ThreadPool\ThreadPool.png](https://github.com/Belief-hub/ThreadPool/blob/main/ThreadPool.png))
+![ThreadPool线程池](https://github.com/Belief-hub/ThreadPool/blob/main/ThreadPool.png)
 
 ## 项目介绍
 
