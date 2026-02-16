@@ -1,6 +1,6 @@
 # 手写线程池
 
-![ThreadPool线程池](E:\CPP\ThreadPool\Figure\ThreadPool.png)
+![ThreadPool线程池](E:\CPP\ThreadPool\ThreadPool.png)
 
 ## 项目介绍
 
